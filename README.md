@@ -8,4 +8,4 @@ I am a Ph.D candidates at National University of Singapore advised by Xinchao Wa
 email: xyang@u.nus.edu
 Previous at @UCSD, @SEU, @Sensetime
 
-![Xingyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdad&show_icons=true&theme=radical)
+![Xingyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdad&show_icons=true&theme=solarized-dark)
