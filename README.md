@@ -9,3 +9,5 @@ email: xyang@u.nus.edu
 Previous at @UCSD, @SEU, @Sensetime
 
 ![Xingyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdad&show_icons=true&theme=solarized-dark)
+
+![a-painting-of-a-virus-monster-playing-guitar](https://user-images.githubusercontent.com/26020510/196132247-3f5793da-0571-48ab-856a-28fdb591640c.png)
